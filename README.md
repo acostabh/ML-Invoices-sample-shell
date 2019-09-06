@@ -20,3 +20,5 @@ This shell script (Mac/Linux) uses a Mavenlink API endpoint to view all the invo
   3. Run the script: ./get_invoice.sh
   4. Follow the instructions on the prompt
   5. View all invoices: By default the script will only show pending invoices, to see all invoices add the switch "a". EG:  ./get_invoice.sh a
+
+  Disclaimer: These scripts are provided as sample code and they are NOT official Mavenlink tools, but generated as part of an exercise to investigate the use of Mavenlink's API based on specific scenarios. The developer accepts no liability for any issues that could arise from using these scripts.
